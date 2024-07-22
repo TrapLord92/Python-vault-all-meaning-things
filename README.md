@@ -1,1 +1,1 @@
-# This is a python  repo for the course , python for data science
+# This is a repo for  all relevant python related stuff
